@@ -12,7 +12,7 @@ I prefer Amazon Web Services & DevOps Tools.
   
 - AWS, DevOPs,Python,Linux, Git, GitHub, GitLab, Jira, Agile, Docker, Kubernetes, Terraform, Ansible, HTML5, CSS3, 
 
-- 💬 Ask  me about anything that you want to learn
+- 💬 Ask  me about anything that you want to learn via LinkedIn 
 
 <!-- -  You can reach me via Linkedin:  <a href="https://abetr.github.io/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a> -->
 
