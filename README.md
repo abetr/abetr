@@ -5,7 +5,7 @@
 <a href="https://github.com/abetr/abetr/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abetr/abetr?color=00C4CE"></a>   
 </p>
 
-## <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3px">  Ahmet Burak is here. (Loading...)
+## <h1 align="center"> Hi there Ahmet Burak is here. (Loading...)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aberen/) 
 <a href="https://abetr.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=abetr" alt="visitor counter" width="15%"/>
